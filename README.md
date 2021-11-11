@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hamza-at-youcode
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any thing that will help me improve my skills
-- 📫 How to reach me hamzagassai.me
+- 📫 How to reach me 
 
 <!---
 hamza-at-youcode/hamza-at-youcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
